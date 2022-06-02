@@ -1,0 +1,16 @@
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.AssemblyInfoInputs.cache
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.AssemblyInfo.cs
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.csproj.CoreCompileInputs.cache
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\SharedFiles\knapsack-items.csv
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\App.exe
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\App.deps.json
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\App.runtimeconfig.json
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\App.runtimeconfig.dev.json
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\App.dll
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\ref\App.dll
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\bin\Debug\net5.0\App.pdb
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.dll
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\ref\App.dll
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.pdb
+C:\Users\A236978\source\repos\TheKnapsackProbem\App\obj\Debug\net5.0\App.genruntimeconfig.cache
