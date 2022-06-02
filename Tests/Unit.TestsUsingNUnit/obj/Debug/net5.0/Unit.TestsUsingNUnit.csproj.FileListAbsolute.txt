@@ -1,6 +1,0 @@
-C:\Users\A236978\source\repos\TheKnapsackProbem\Tests\Unit.TestsUsingNUnit\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\A236978\source\repos\TheKnapsackProbem\Tests\Unit.TestsUsingNUnit\obj\Debug\net5.0\Unit.TestsUsingNUnit.csproj.AssemblyReference.cache
-C:\Users\A236978\source\repos\TheKnapsackProbem\Tests\Unit.TestsUsingNUnit\obj\Debug\net5.0\Unit.TestsUsingNUnit.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\A236978\source\repos\TheKnapsackProbem\Tests\Unit.TestsUsingNUnit\obj\Debug\net5.0\Unit.TestsUsingNUnit.AssemblyInfoInputs.cache
-C:\Users\A236978\source\repos\TheKnapsackProbem\Tests\Unit.TestsUsingNUnit\obj\Debug\net5.0\Unit.TestsUsingNUnit.AssemblyInfo.cs
-C:\Users\A236978\source\repos\TheKnapsackProbem\Tests\Unit.TestsUsingNUnit\obj\Debug\net5.0\Unit.TestsUsingNUnit.csproj.CoreCompileInputs.cache

@@ -20,7 +20,11 @@ namespace App.models
         /// <summary>
         /// Gets or Sets the potential items to be placed inside the Knapsack
         /// </summary>
-        public List<IKnapsackItem> KnapsackItems { get; set; }
+        List<IKnapsackItem> KnapsackItems { get; set; }
+        /// <summary>
+        /// Gets or Sets a File IO wrapper
+        /// </summary>
+        IFileIOWrapper FileIOWrapper { get; set; }
         /// <summary>
         /// Gets or Sets the contents / items in the Knapsack
         /// </summary>
@@ -58,6 +62,10 @@ namespace App.models
         /// Gets or Sets the potential items to be placed inside the Knapsack
         /// </summary>
         public List<IKnapsackItem> KnapsackItems { get; set; }
+        /// <summary>
+        /// Gets or Sets a File IO wrapper
+        /// </summary>
+        public IFileIOWrapper FileIOWrapper { get; set; }
         /// <summary>
         /// Gets or Sets the contents / items in the Knapsack
         /// </summary>
@@ -101,7 +109,8 @@ namespace App.models
         /// <param name="fileIOWrapper">the file IO wrapper</param>
         public Knapsack(int maximumWeight, IFileIOWrapper fileIOWrapper) : this(maximumWeight)
         {
-            KnapsackItems = fileIOWrapper.ReadAllLines().Skip(1).Select(item => new KnapsackItem(item)).ToList<IKnapsackItem>();
+            FileIOWrapper = fileIOWrapper;
+            KnapsackItems = FileIOWrapper.ReadAllLines().Skip(1).Select(item => new KnapsackItem(item)).ToList<IKnapsackItem>();
         }
         #endregion Contructor(s)
 
